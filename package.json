@@ -1,0 +1,12 @@
+{
+  "name": "Occupied",
+  "version": "0.0.0",
+  "description": "An app for tracking bathroom status.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -a localhost -p 7000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Insight Creative",
+  "license": "ISC"
+}

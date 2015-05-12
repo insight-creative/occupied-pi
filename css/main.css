@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+}
+.light {
+  padding: 20px;
+  color: #fff;
+  font-size: 30px;
+}
+.unoccupied {
+  background-color: green;
+}
+.occupied {
+  background-color: red;
+}
